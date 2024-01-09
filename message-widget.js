@@ -6,7 +6,7 @@
 
 class messageWidget extends HTMLElement {
   static _WIDGETNAME = "message-widget";
-  static _WIDGETURL = "https://zealous-smoke-0a5fdc510.4.azurestaticapps.net";
+  static _WIDGETURL = "https://thankful-beach-09c743510.4.azurestaticapps.net";
 
   connectedCallback() {
     this.classList.add("neo-widget");
