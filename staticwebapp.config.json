@@ -3,19 +3,19 @@
     "routes" : [
         {
             "route": "/index.html",
-            "rewrite" : "/home-widget.html"
+            "rewrite" : "/message-widget.html"
         },
         {
-            "route": "/home-widget.html",
-            "rewrite" : "/home-widget.html"
+            "route": "/message-widget.html",
+            "rewrite" : "/message-widget.html"
         },
         {
-            "route": "/home-widget.css",
-            "rewrite" : "/home-widget.css"
+            "route": "/message-widget.css",
+            "rewrite" : "/message-widget.css"
         },
         {
-            "route": "/home-widget.js",
-            "rewrite" : "/home-widget.js"
+            "route": "/message-widget.js",
+            "rewrite" : "/message-widget.js"
         }
     ],  
         "globalHeaders": {
