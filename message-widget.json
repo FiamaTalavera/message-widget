@@ -1,0 +1,42 @@
+
+{
+
+  "metadata": {
+
+    "name": "Message-widget",
+
+    "description": "OneMessage app",
+
+    "tags": "widget, demo, api",
+
+    "version": "1.0",
+
+    "date": "2023-10-19T12:00:00.51.68Z",
+
+    "id": "c39b8a36-7503-430e-acd1-49277fa24a4b"
+
+  },
+
+  "configuration": {
+
+    "external": true,
+
+    "enabled": true,
+
+    "name": "c39b8a36-7503-430e-acd1-49277fa24a4b",
+
+    "icon": "aoc-home",
+
+    "element": "<message-widget></message-widget>",
+
+    "permissions": [],
+
+    "shortcuts": [],
+
+    "localisation": [],
+
+    "files": ["/message-widget.js"]
+
+  }
+
+}
